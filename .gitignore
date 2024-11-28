@@ -1,0 +1,14 @@
+LayerArchitecture.API/bin/
+LayerArchitecture.API/obj/
+LayerArchitecture.Caching/bin/
+LayerArchitecture.Caching/obj/
+LayerArchitecture.Core/bin/
+LayerArchitecture.Core/obj/
+LayerArchitecture.Repository/bin/
+LayerArchitecture.Repository/obj/
+LayerArchitecture.Service/bin/
+LayerArchitecture.Service/obj/
+LayerArchitecture.Web/bin/
+LayerArchitecture.Web/obj/
+.vs/
+.git/
